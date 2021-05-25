@@ -16,6 +16,6 @@ to estimate the body-parts of flies on a given
 dataset. We divided that dataset of 2000 samples into 
 80% training and 20% testing and validation. 
 
-[Our work Overview](Users/libraryuser/Downloads/Science%20project.pdf)
+[Our work Overview](file:///Users/libraryuser/Downloads/Science%20project.pdf)
 
 ## Validation
